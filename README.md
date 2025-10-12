@@ -1,5 +1,4 @@
 # Ayodamope-vitalytics.github.io
-My Data Analytics Portfolio
 Welcome,I’m a data analyst with a background in nursing, passionate about turning health and human-centered data into actionable insights.
 ##About Me
 I specialize in data cleaning, visualization, and reporting using Excel, SQL, and Power Bi## Projects
