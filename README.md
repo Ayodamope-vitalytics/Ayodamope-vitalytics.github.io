@@ -10,6 +10,11 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 -	Created dynamic dashboards to visualize lifestyle factors and their influence on sleep patterns and mental health 
 -	Delivered prescriptive recommendations to improve wellness outcomes in target populations 
 [View Project Files →](https://eu.docworkspace.com/d/cIEPAoLJg6LquxwY?sa=S0&st=0)
+### Project Dashboard Preview
+![Dashboard Lifestyle and Health prediction Analysis ](<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9f646db1-b3a9-45bc-b11f-4531388742fb" />)(<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/dc915c53-4742-46f5-8388-cb14774cfa6b" />)(<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/02eedbb8-6cef-40c0-8b85-6cee1c67db6d" />)
+
+
+
 
 
 ### 📈 Project 2: Fashion Product Sales Trend Analysis 
