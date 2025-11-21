@@ -52,9 +52,31 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 
 ### Project Dashboard Preview
-![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ](![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ]([https://github.com/user-attachments/assets/c67f3f91-36a1-4410-a67e-7be8f8a59599]
+![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ]([https://eu.docworkspace.com/d/cIILAoLJg7Z6ByQY?sa=S0&st=0](https://eu.docworkspace.com/d/cIILAoLJg7Z6ByQY?sa=S0&st=0)) 
 
-## Skills
+### 📊 Project 4:Mental health workplace survery
+**Description:**-This project analyzes workplace burnout using a multi-dimensional dataset covering work hours, sleep duration, physical activity, years of experience, gender, and productivity metrics. I designed a comprehensive dashboard visualization to communicate patterns and risk factors contributing to employee burnout.
+
+**Tools Used:** Excel
+**Key Findings:**
+
+-Those working between 40–49 hours per week reported the highest burnout levels. It wasn’t the people working the longest hours — it was those in the “almost too busy” range. Sometimes, burnout doesn’t happen at the extreme; it creeps in when you think you’re still managing fine.
+
+-There was only a small difference between male and female employees, but men showed slightly higher burnout levels. It’s a reminder that burnout has no respect for gender — it affects anyone, no matter how strong or composed they appear.
+
+-People who get more sleep have higher productivity — rest isn’t a luxury; it’s an efficiency tool.
+
+-Employees with the longest years of service had the highest burnout levels — loyalty shouldn’t lead to depletion.
+
+-Those who engage in more physical activity report lower stress — small steps literally make a big difference.
+
+-The more burnout increases, the less satisfied people feel with their jobs — when well-being declines, so does engagement.
+[View Project Files →](https://eu.docworkspace.com/d/cIPDAoLJgrKqByQY?sa=S0&st=0))
+
+
+### Project Dashboard Preview
+![Dashboard Mental health workplace survey ](![Dashboard Mental health workplace survey ](https://eu.docworkspace.com/d/cIPDAoLJgrKqByQY?sa=S0&st=0))
+
 - **Data Analysis:** Excel (Advanced), Google Sheets, Power BI
 - **Databases:** SQL, MySQL
 - **Visualization:** Excel, Power BI
