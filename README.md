@@ -75,7 +75,7 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 
 ### Project Dashboard Preview
-![Dashboard Mental health workplace survey ](![Dashboard Mental health workplace survey ](Mental health original.png))
+![Dashboard Mental health workplace survey ](Mental health original.png))
 
 - **Data Analysis:** Excel (Advanced), Google Sheets, Power BI
 - **Databases:** SQL, MySQL
