@@ -32,7 +32,27 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 [View Project Files →](https://eu.docworkspace.com/d/cILTAoLJgtbuuxwY?sa=S0&st=0)
 
 ### Project Dashboard Preview
-![Dashboard Fashion Products Data Analysis ](![Dashboard Fashion Products Data Analysis ](https://github.com/user-attachments/assets/c67f3f91-36a1-4410-a67e-7be8f8a59599))
+![Dashboard Fashion Products Data Analysis ](![Dashboard Fashion Products Data Analysis ](https://github.com/user-attachments/assets/c67f3f91-36a1-4410-a67e-7be8f8a59599)) 
+
+### 📊 Project 3: APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2
+**Description:**-It presents an analysis of 100 applicants from the DAWB Data Analytics Training (Cohort 2), highlighting key insights from application sources, employment status, selection process, and geographic reach.
+
+**Tools Used:** Excel,
+**Key Findings:**
+
+ -📊 Application Process: Out of 100 applicants, only 23 advanced to selection, showing DAWB’s strong emphasis on quality and readiness.
+
+-🧭 Application Source: Referrals brought in the highest number of applicants, followed by social media. The DAWB community believes in and promotes the program — that’s true impact!
+
+-💻 Employment Status: Most applicants are employed professionals, reflecting a growing interest in using data skills to enhance career growth.
+
+-🌍 Geographic Spread: Lagos and the Southwest region dominate participation, showing DAWB’s strong regional influence and room to reach other zones.
+ 
+[View Project Files →](https://eu.docworkspace.com/d/cIILAoLJg7Z6ByQY?sa=S0&st=0))
+
+
+### Project Dashboard Preview
+![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ](![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ]([https://github.com/user-attachments/assets/c67f3f91-36a1-4410-a67e-7be8f8a59599]
 
 ## Skills
 - **Data Analysis:** Excel (Advanced), Google Sheets, Power BI
