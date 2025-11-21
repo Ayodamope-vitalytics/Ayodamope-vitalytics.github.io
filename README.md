@@ -52,7 +52,7 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 
 ### Project Dashboard Preview
-![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ]([https://eu.docworkspace.com/d/cIILAoLJg7Z6ByQY?sa=S0&st=0](https://eu.docworkspace.com/d/cIILAoLJg7Z6ByQY?sa=S0&st=0)) 
+![Dashboard APPLICANTS FOR DAWB DATA ANALYTICS TRAINING-COHORT 2 ](DASHBOARD.png)) 
 
 ### 📊 Project 4:Mental health workplace survery
 **Description:**-This project analyzes workplace burnout using a multi-dimensional dataset covering work hours, sleep duration, physical activity, years of experience, gender, and productivity metrics. I designed a comprehensive dashboard visualization to communicate patterns and risk factors contributing to employee burnout.
